@@ -1,2 +1,6 @@
 *.blend1
 *.pyc
+
+# Local Claude notes/context (CLAUDE.md stays at repo root so Claude Code auto-loads it,
+# this folder is just for supplementary reference material, not meant to be part of the fork)
+/claude/
